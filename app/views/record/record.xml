@@ -1,0 +1,13 @@
+<Page loaded="loaded">
+  <StackLayout class="p-20">
+
+      <ActivityIndicator color="#3489db" busy="{{ isRecording }}" />
+      <Button text="Start Recording" tap="start" />
+      <Button text="Stop Recording" tap="stop" />
+      <Button text="Get Recorded File" tap="getFile" />
+      <label text="{{ recordedAudioFile }}" color="#3489db" textWrap="true" />
+
+     <Button text="Play" tap="playAudio" />
+
+  </StackLayout>
+</Page>

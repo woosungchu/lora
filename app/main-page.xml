@@ -1,0 +1,7 @@
+<Page loaded="pageLoaded">
+  <StackLayout orientation="vertical">
+
+   <Button text="goRecord" tap="goRecord" />
+
+  </StackLayout>
+</Page>
