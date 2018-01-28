@@ -1,4 +1,4 @@
-### NativeScript Tutorial
+### Lora project
 
 
 ##### Prerequisite
